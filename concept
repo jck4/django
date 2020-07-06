@@ -1,0 +1,52 @@
+seudo life simulation
+
+.io game? user selects specialization/focus to grow/improve/populate a planet
+
+paralell realities expanding until realities touch. When realities touch, one reality can absorb another.
+
+border friction. massive debuff for 2 or more realities. The longer realities touch, the worse the debuff gets. Effects realities in a chaotic way.
+
+
+colony{
+
+    developement
+
+    beurocracy
+
+    liberty
+}
+
+land{
+
+soil fertility
+
+}
+
+environment{
+    devestation    
+}
+
+world{
+    arrable
+}
+
+pawn {
+    industrialist
+
+    environmentalist
+
+    ingenuity
+
+    creativity
+    
+    inspiration
+    
+    risk aversion
+
+    technology - technology type influenced by 
+        - war
+        - economy
+        - communication
+        - control        
+
+}
